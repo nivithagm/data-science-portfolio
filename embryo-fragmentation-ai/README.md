@@ -54,3 +54,19 @@ This repository only documents the methodology and system design.
 - Multi-stage deep learning pipelines
 - Clinical workflow integration
 - Expanded dataset for improved model robustness
+
+## Skills Demonstrated
+
+- Computer Vision
+- Deep Learning
+- Healthcare AI
+- Image Processing
+- Python
+- TensorFlow / PyTorch
+- Data Privacy Awareness
+- AI Workflow Design
+- Research and Analytical Thinking
+
+## Business / Clinical Value
+
+This project demonstrates how AI and computer vision techniques can assist in embryo quality assessment workflows by improving consistency, reducing manual effort, and supporting clinical decision-making processes.
