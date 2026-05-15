@@ -48,4 +48,9 @@ Telco Customer Churn dataset
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python app.py
+## Running the Project
+
+Open the Jupyter notebook in the notebooks directory to explore the data analysis and machine learning workflow.
+
+```bash
+jupyter notebook
