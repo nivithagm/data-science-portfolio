@@ -93,9 +93,3 @@ notebooks/Titanic_EDA_Complete.ipynb
 ## Portfolio summary
 
 This project is suitable for a beginner data analytics or data science portfolio because it demonstrates a full EDA workflow from raw data inspection to cleaned insights and visual storytelling.
-
-## Suggested GitHub repository name
-
-```bash
-titanic-eda-project
-```
