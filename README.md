@@ -1,20 +1,5 @@
-# Data Science Portfolio
+# Data Science & AI Portfolio
 
-This repository contains my data science and AI projects.
+I am an aspiring Data Analyst / Data Scientist with an engineering background and hands-on experience in Python, SQL, machine learning, data visualization, and AI-based image analysis.
 
-## Projects
-
-### 1. Titanic EDA Project
-Exploratory Data Analysis on the Titanic dataset using Python, pandas, and matplotlib.
-
-### 2. Automated Embryo Fragmentation Analysis Using AI
-Confidential medical AI case study showcasing system architecture and methodology.
-
-### 3. Customer Churn Prediction (In Progress)
-Machine learning project to predict customer churn using telecom customer data.
-
-Tech stack:
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
+This portfolio demonstrates my practical work across exploratory data analysis, machine learning, healthcare AI, and business analytics.
