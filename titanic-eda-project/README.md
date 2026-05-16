@@ -1,10 +1,8 @@
 # Titanic Exploratory Data Analysis (EDA)
+## Project Objective
 
+The objective of this project was to perform exploratory data analysis on the Titanic dataset to identify patterns and factors influencing passenger survival. The analysis focused on understanding relationships between demographic, socioeconomic, and travel-related variables using Python-based data analysis techniques.
 A complete, portfolio-ready Exploratory Data Analysis project based on the Titanic dataset.
-
-## Project objective
-
-The goal of this project is to explore the Titanic dataset, clean the data, handle missing values, create visualizations, and perform correlation analysis to understand which factors were associated with passenger survival.
 
 ## Skills demonstrated
 
