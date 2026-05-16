@@ -93,13 +93,33 @@ Then open:
 ```bash
 notebooks/Titanic_EDA_Complete.ipynb
 ```
+## Visualisations
+
+### Survival Count
+![Survival Count](images/survival_count.png)
+
+### Survival Rate by Sex
+![Survival Rate by Sex](images/survival_rate_by_sex.png)
+
+### Survival Rate by Passenger Class
+![Survival Rate by Class](images/survival_rate_by_class.png)
+
+### Age Distribution
+![Age Distribution](images/age_distribution.png)
+
+### Fare by Passenger Class
+![Fare by Class](images/fare_by_class.png)
+
+### Correlation Matrix
+![Correlation Matrix](images/correlation_matrix.png)
 
 ## Key Insights
 
-- Female passengers had higher survival rates.
+- Female passengers had significantly higher survival rates compared to male passengers.
 - Passenger class strongly influenced survival probability.
-- Younger passengers showed different survival patterns compared to older passengers.
-- Missing data handling was important during preprocessing.
+- Fare prices varied considerably across passenger classes.
+- Correlation analysis helped identify relationships between numerical features.
+- Data preprocessing and handling missing values were important steps during analysis.
 
 ## Portfolio summary
 
