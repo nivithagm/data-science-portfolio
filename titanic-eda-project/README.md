@@ -14,7 +14,11 @@ The goal of this project is to explore the Titanic dataset, clean the data, hand
 - Data visualization with matplotlib  
 - Correlation analysis  
 - Feature engineering  
-- GitHub-ready project structuring  
+- GitHub-ready project structuring
+- Python
+- Pandas
+- Seaborn
+- Analytical Thinking
 
 ## Dataset
 
@@ -89,6 +93,13 @@ Then open:
 ```bash
 notebooks/Titanic_EDA_Complete.ipynb
 ```
+
+## Key Insights
+
+- Female passengers had higher survival rates.
+- Passenger class strongly influenced survival probability.
+- Younger passengers showed different survival patterns compared to older passengers.
+- Missing data handling was important during preprocessing.
 
 ## Portfolio summary
 
